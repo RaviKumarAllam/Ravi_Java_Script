@@ -4,3 +4,7 @@ const PI = 3.14; //constant
 let name = 'Ravi'; //string
 let age = 24; //number or Integer
 let isTrue =true; //boolean --> false
+let sum = (a,b) =>a= a + b; //arrow function
+// single line comment
+/* multi line comment */
+console.log(message);
