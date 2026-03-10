@@ -2,3 +2,5 @@
 let x = 10;
 const PI = 3.14; //constant
 let name = 'Ravi'; //string
+let age = 24; //number or Integer
+let isTrue =true; //boolean --> false
