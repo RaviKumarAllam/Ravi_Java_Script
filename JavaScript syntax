@@ -5,6 +5,6 @@ let name = 'Ravi'; //For string
 let age = 24; //number or Integer
 let isTrue =true; //boolean --> false
 let sum = (a,b) =>a= a + b; //arrow function
-// single line comment
-/* multi line comment */
+// For single line comment
+/* For multi line comment */
 console.log(message);
