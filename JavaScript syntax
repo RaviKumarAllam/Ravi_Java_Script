@@ -1,4 +1,4 @@
-//Basic
+//Basic of JavaScript 
 let x = 10;
 const PI = 3.14; //For constant
 let name = 'Ravi'; //For string
