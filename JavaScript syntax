@@ -1,7 +1,7 @@
 //Basic
 let x = 10;
-const PI = 3.14; //constant
-let name = 'Ravi'; //string
+const PI = 3.14; //For constant
+let name = 'Ravi'; //For string
 let age = 24; //number or Integer
 let isTrue =true; //boolean --> false
 let sum = (a,b) =>a= a + b; //arrow function
