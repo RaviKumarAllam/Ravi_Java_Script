@@ -10,7 +10,7 @@ let sum = (a,b) =>a= a + b; //arrow function
 console.log(message);
 
 // Array Syntax
-let arr = [1,2,3];
-arr.push(4);
-arr.pop(2);
-arr.pop();
+let arr = [1,2,3];//array
+arr.push(4); //add to end
+arr.pop(); //remove last
+arr.unshift(0); //add to first
