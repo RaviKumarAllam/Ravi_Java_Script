@@ -9,7 +9,7 @@ let sum = (a,b) =>a= a + b; //arrow function
 /* For multi line comment */
 console.log(message);
 
-
+// Array Syntax
 let arr = [1,2,3];
 arr.push(4);
 arr.pop(2);
