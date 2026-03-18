@@ -20,3 +20,4 @@ arr.length; //number of elements or values
 // String Syntax
 .length
 .toUpperCase()
+.indexct('a')
