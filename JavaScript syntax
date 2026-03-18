@@ -16,3 +16,7 @@ arr.pop(); //remove last
 arr.unshift(0); //add to first
 arr.shift(); //remove first
 arr.length; //number of elements or values
+
+// String Syntax
+.length
+.toUpperCase()
