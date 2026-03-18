@@ -23,3 +23,4 @@ arr.length; //number of elements or values
 .indexct('a')
 .slice(1, 4)
 .replace('a', 'b')
+.split(")
