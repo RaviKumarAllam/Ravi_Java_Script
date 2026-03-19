@@ -27,3 +27,5 @@ arr.length; //number of elements or values
 :to'.UpperCase()
 :toLowerCase()
 :tsi(ce(1,4)
+:replace('a','b')
+:split(",")
