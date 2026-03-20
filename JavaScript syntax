@@ -36,4 +36,6 @@ if (x>50){
   console.log('big');
   } else if(x>20){
   console.log('med');
+  } else{
+  console.log('small');
 }
