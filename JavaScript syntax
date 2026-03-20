@@ -29,3 +29,11 @@ arr.length; //number of elements or values
 :tsi(ce(1,4))
 :replace('a','b')
 :split(",")
+
+//Control Flows
+
+if (x>50){
+  console.log('big');
+  } else if(x>20){
+  console.log('med');
+}
