@@ -39,3 +39,10 @@ if (x>50){
   } else{
   console.log('small');
 }
+
+//Loops
+
+while(x<10){
+  x++;
+  switch(day){
+}
