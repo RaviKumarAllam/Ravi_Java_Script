@@ -45,4 +45,7 @@ if (x>50){
 while(x<10){
   x++;
   switch(day){
+  case 1:
+  console.log('Mon');
+  break;
 }
