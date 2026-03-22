@@ -56,3 +56,9 @@ while(x<10){
 }
 
 //for loop
+
+const cars = ["BMW", "Volvo", "Saab", "Ford"];
+let len = cars.length;
+
+let text = "";
+
