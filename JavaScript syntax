@@ -54,3 +54,5 @@ while(x<10){
   default;
   console.log('Other');
 }
+
+//for loop
