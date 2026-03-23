@@ -61,6 +61,7 @@ for (let i = 0; i<5; i++){
   console.log(i);
 } else{
   console.log('Other);
+}
 
 
 const cars = ["BMW", "Volvo", "Saab", "Ford"];
