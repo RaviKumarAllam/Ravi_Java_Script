@@ -70,7 +70,8 @@ switch(day){
   console.log('Tue');
   break;
   default;
-
+  console.log('Other');
+}
 
 
 
