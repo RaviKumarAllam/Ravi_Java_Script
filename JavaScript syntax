@@ -61,7 +61,12 @@ for (let i = 0; i<5; i++){
   console.log(i);
 } else{
   console.log('Other);
-}
+}   
+switch(day){
+  case 1:
+  console.log('Mon');
+  break;
+
 
 
 const cars = ["BMW", "Volvo", "Saab", "Ford"];
