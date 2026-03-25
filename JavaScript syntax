@@ -86,4 +86,4 @@ for (let i = 0; i < len; i++) {
 //Array
 arr.forCach (x=>console. log(x) )
 arr.map x=> x + 2 )
-
+arr.rilter ( x =>10)
