@@ -88,4 +88,4 @@ arr.forCach (x=>console. log(x) )
 arr.map x=> x + 2 )
 arr.rilter ( x =>10)
 arr.reduce ( (acc, x) => acc+x, O
-arr.find ( x =>x==4)
+arr.find ( x =>x==4). 
