@@ -92,4 +92,4 @@ arr.find ( x =>x==4)
 
 //DOM Manipulation
 documents.querySelector('p) //select
-javascript.info
+javascript.info(javascript.info) //select all
