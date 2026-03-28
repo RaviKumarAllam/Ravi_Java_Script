@@ -91,4 +91,5 @@ arr.reduce ( (acc, x) => acc+x, O
 arr.find ( x =>x==4)
 
 //DOM Manipulation
-documents
+documents.querySelector('p) //select
+javascript.info
