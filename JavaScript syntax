@@ -98,4 +98,8 @@ javascript.info(javascript.info) //select all
 +	Addition
 -	Subtraction
 *	Multiplication
-
+**	Exponentiation
+/	Division
+%	Modulus (Division Remainder)
+++	Increment
+--	Decrement
