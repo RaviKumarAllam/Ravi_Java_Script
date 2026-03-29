@@ -94,7 +94,7 @@ arr.find ( x =>x==4)
 documents.querySelector('p) //select
 javascript.info(javascript.info) //select all
 
-Operator	Description
+//Operator	Description
 +	Addition
 -	Subtraction
 *	Multiplication
