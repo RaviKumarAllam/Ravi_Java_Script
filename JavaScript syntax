@@ -41,10 +41,10 @@ if (x>50){
 }
 
 let age = 16;
-let country = "Ravi";
+let name = "Ravi";
 let text = "Hi there";
 
-if (country == "USA") {
+if (name == "Ravi") {
   if (age >= 16) {
     text = "You can drive!";
   }
