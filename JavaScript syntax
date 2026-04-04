@@ -134,7 +134,7 @@ let y = false;
 // Object creation
 const person = {firstName:"John", lastName:"Doe"};
 
-// Array object
+// Array object and its value
 const cars = ["Saab", "Volvo", "BMW"];
 
 // Date object
