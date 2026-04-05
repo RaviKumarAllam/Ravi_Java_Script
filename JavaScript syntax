@@ -1,6 +1,6 @@
 //Basic JavaScript 
 let x = 10;
-const PI = 3.14; //For Constant. 
+const PI = 3.14; //For Constant
 let name = 'Ravi'; //For String. 
 let age = 24; //number or Integer
 let isTrue =true; //boolean -> false
