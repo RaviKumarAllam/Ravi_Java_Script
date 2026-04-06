@@ -3,7 +3,7 @@ let x = 10;
 const PI = 3.14; //For Constant
 let name = 'Ravi'; //For String
 let age = 24; //number or Integer
-let isTrue =true; //boolean [false]
+let isTrue =true; //boolean or [false]
 let sum = (a,b) =>a= a + b; //arrow function
 // For single line comment
 /* For multi line comment */
